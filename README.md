@@ -11,8 +11,8 @@
   If your most used application today is Instagram then,tommorow you can only access instagram for the entire day.Even the most basic fucntions like making a call is restricted.
   
 ### The Problem
-If you are like me, You will probably like to Doom scrol for hours and hours without any external distractions from other apps.
-just the thought that other apps existss in my phone makes me wanna stop doom scroling.
+If you are like me, You will probably like to Doom scroll for hours and hours without any external distractions from other apps.
+just the thought that other apps existss in my phone makes me wanna stop my scrolling.
 Who needs other apps when you are a Doom Scroller
 
 ### The Solution
