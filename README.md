@@ -17,4 +17,4 @@ Who needs other apps when you are a Doom Scroller
 
 ### The Solution
 Introducing Dead Inside:  
-An app that blocks all other applications on your phone except the doom scroll appication
+An app that blocks all other applications on your phone except the doom scroll application
