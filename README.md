@@ -32,6 +32,12 @@ clone or fork this repository and open terminal in vs code
 Run Flutter run command
 
 # Run
-navigate to the file directory and open a terminal window
-the run command
-flutter run
+navigate to the file directory and open a terminal window,
+then run command
+
+"flutter run"
+
+# Screenshots
+![image](https://github.com/user-attachments/assets/d609de63-4c36-4265-a8a8-c3d6462bedae)
+the above given screen shot is a web reepresentation of the app dead inside.
+had this project ben run on virtual devices from android studio the proper working could hav been demonstrated.
