@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dead Inside
 
 ## Basic Details
@@ -19,21 +18,20 @@ Who needs other apps when you are a Doom Scroller
 ### The Solution
 Introducing Dead Inside:  
 An app that blocks all other applications on your phone except the doom scroll application
-=======
-# deadinside
 
-A new Flutter project.
 
-## Getting Started
+### Technical Details
+For Software:
+- Languages used :Dart
+- [Libraries used: FLutter inbulit libraries and ap_usage() package to app usage details
+- Tools used : 
 
-This project is a starting point for a Flutter application.
+### Implementation
+# Installation
+clone or fork this repository and open terminal in vs code 
+Run Flutter run command
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 8945f55 (Add folder contents)
+# Run
+navigate to the file directory and open a terminal window
+the run command
+flutter run
